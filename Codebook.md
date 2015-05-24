@@ -1,26 +1,27 @@
 # Codebook describing the tidy data file output.txt
 ## Source Data File
 The source datafile is the Human Activity Recognition Using Smartphones Dataset
-from
+from  
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ## Tidy File
 The above source datafile has been processed and cleaned resulting in this tidy file of 180 observations
-with 81 variables
+with 81 variables grouped by activity type and subject ID.
+
 * Please read the README.md for a description of the processing performed
 
 ## Codebook variable descriptions
 
-[1]	"ActivityID"
+[1]	"ActivityID"  
 Description of the activity which can be one of the following 6 character strings
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+- WALKING
+- WALKING_UPSTAIRS
+- WALKING_DOWNSTAIRS
+- SITTING
+- STANDING
+- LAYING
 
-[2]	"SubjectID"
+[2]	"SubjectID"  
 Integer ranging from 1:30 which identifies the individual subject
 
 [3]	"tBodyAccmeanX"   
