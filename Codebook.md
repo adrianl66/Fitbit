@@ -1,4 +1,4 @@
-# This is the codebook describing the tidy data file output.txt
+# Codebook describing the tidy data file output.txt
 ## Source Data File
 The source datafile is the Human Activity Recognition Using Smartphones Dataset
 from
@@ -7,19 +7,19 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ## Tidy File
 The above source datafile has been processed and cleaned resulting in this tidy file of 180 observations
 with 81 variables
-* Please read the README.md for a description of the processing
+* Please read the README.md for a description of the processing performed
 
 ## Codebook variable descriptions
 
-[1]		"ActivityID"
-[2]		"SubjectID" 
-[3]		"tBodyAccmeanX"               
-[4]		"tBodyAccmeanY"                
-[5]		"tBodyAccmeanZ"                
-[6]		"tBodyAccstdX"                
-[7]		"tBodyAccstdY"                 
-[8]		"tBodyAccstdZ"                 
-[9]		"tGravityAccmeanX"            
+[1]	"ActivityID"
+[2]	"SubjectID" 
+[3]	"tBodyAccmeanX"               
+[4]	"tBodyAccmeanY"                
+[5]	"tBodyAccmeanZ"                
+[6]	"tBodyAccstdX"                
+[7]	"tBodyAccstdY"                 
+[8]	"tBodyAccstdZ"                 
+[9]	"tGravityAccmeanX"            
 [10]	"tGravityAccmeanY"             
 [11]	"tGravityAccmeanZ"             
 [12]	"tGravityAccstdX"             
@@ -85,7 +85,7 @@ with 81 variables
 [72]	"fBodyAccMagmeanFreq"         
 [73]	"fBodyBodyAccJerkMagmean"      
 [74]	"fBodyBodyAccJerkMagstd"       
-[75]	"fBodyBodyAccJerkMagmeanFreq" 
+[75]	"fBodyBodyAccJerkMagmeanFreq"
 [76]	"fBodyBodyGyroMagmean"         
 [77]	"fBodyBodyGyroMagstd"          
 [78]	"fBodyBodyGyroMagmeanFreq"    
