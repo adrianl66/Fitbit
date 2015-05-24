@@ -6,7 +6,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ## output.txt Tidy File
 The above source datafile has been processed and cleaned resulting in this tidy file of 180 observations
-with 81 variables grouped by activity type and subject ID.
+with 81 variables grouped by activity ID and subject ID.
 
 * Please read the README.md for a description of the processing performed
 
@@ -210,19 +210,19 @@ Numeric mean frequency Value of Body Gyro mean in the Z direction
 [64]	"fBodyGyrostdX"   
 Numeric mean frequency Value of Body Gyro std in the X direction
     
-[65]	"fBodyGyrostdY" 
+[65]	"fBodyGyrostdY"  
 Numeric mean frequency Value of Body Gyro std in the Y direction
 
-[66]	"fBodyGyrostdZ" 
+[66]	"fBodyGyrostdZ"   
 Numeric mean frequency Value of Body Gyro std in the Z direction
 
-[67]	"fBodyGyromeanFreqX"  
+[67]	"fBodyGyromeanFreqX"    
 Numeric mean frequency Value of Body Gyro mean Frequency in the X direction
 
-[68]	"fBodyGyromeanFreqY" 
+[68]	"fBodyGyromeanFreqY"  
 Numeric mean frequency Value of Body Gyro mean Frequency in the Y direction
 
-[69]	"fBodyGyromeanFreqZ"
+[69]	"fBodyGyromeanFreqZ"  
 Numeric mean frequency Value of Body Gyro mean Frequency in the Z direction
 
 [70]	"fBodyAccMagmean"          
@@ -231,32 +231,32 @@ Numeric mean frequency Value of Body Acceleration Magnitude mean
 [71]	"fBodyAccMagstd"   
 Numeric mean frequency Value of Body Acceleration Magnitude std
 
-[72]	"fBodyAccMagmeanFreq" 
+[72]	"fBodyAccMagmeanFreq"  
 Numeric mean frequency Value of Body Acceleration Magnitude Mean Frequency
 
-[73]	"fBodyBodyAccJerkMagmean"
+[73]	"fBodyBodyAccJerkMagmean"  
 Numeric mean frequency Value of Body Acceleration Jerk Magnitude mean
 
-[74]	"fBodyBodyAccJerkMagstd"
+[74]	"fBodyBodyAccJerkMagstd"  
 Numeric mean frequency Value of Body Acceleration Jerk Magnitude std
 
-[75]	"fBodyBodyAccJerkMagmeanFreq"
+[75]	"fBodyBodyAccJerkMagmeanFreq"  
 Numeric mean frequency Value of Body Acceleration Jerk Magnitude mean Frequency
 
-[76]	"fBodyBodyGyroMagmean"
+[76]	"fBodyBodyGyroMagmean"  
 Numeric mean frequency Value of Body Gyro Magnitude mean
 
-[77]	"fBodyBodyGyroMagstd"
+[77]	"fBodyBodyGyroMagstd"  
 Numeric mean frequency Value of Body Gyroscope Magnitude std
 
-[78]	"fBodyBodyGyroMagmeanFreq"
+[78]	"fBodyBodyGyroMagmeanFreq"  
 Numeric mean frequency Value of Body Gyroscope Magnitude mean Frequency
 
-[79]	"fBodyBodyGyroJerkMagmean"
+[79]	"fBodyBodyGyroJerkMagmean"  
 Numeric mean frequency Value of Body Gyroscope Jerk Magnitude mean
 
-[80]	"fBodyBodyGyroJerkMagstd"
+[80]	"fBodyBodyGyroJerkMagstd"  
 Numeric mean frequency Value of Body Gyroscope Jerk Magnitude std
 
-[81]	"fBodyBodyGyroJerkMagmeanFreq"
+[81]	"fBodyBodyGyroJerkMagmeanFreq"  
 Numeric mean Frequency Value of Body Gyroscope Jerk Magnitude mean Frequency
